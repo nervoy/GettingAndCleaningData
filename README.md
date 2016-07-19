@@ -2,7 +2,7 @@
 These data sets (subset.csv and averages.csv) are based on the data from this project:
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
-The data itselve is taken from here:
+The data themselves are taken from here:
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
 The repo contains the script which can be used to regenreate the data sets (subset.csv and averages.csv) from the initial data. To do it,
