@@ -10,7 +10,7 @@ The repo contains the script which can be used to regenreate the data sets (subs
 
 2) create a destination folder where you want the generated data sets to be created.
 
-3) source the script file run_analysis.R from this repo and run a function called "generateDataSets" with the source directory and the destination directory as parameters. For example, generateDataSets("./Data Science Course/PA4","./Data Science Course/Assignment4").
+3) source the script file run_analysis.R from this repo and run a function called "generateDataSets" with the source directory (where you unzipped the files and directories from the archive) and the destination directory as parameters. For example, generateDataSets("./Data Science Course/PA4","./Data Science Course/Assignment4").
 
 4) Find your data sets in the destination folder.
 
